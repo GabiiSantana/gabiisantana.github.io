@@ -2,15 +2,15 @@ import I18nKeys from "./src/locales/keys";
 import type { Configuration } from "./src/types/config";
 
 const YukinaConfig: Configuration = {
-  title: "Yukina",
-  subTitle: "Yukina Template Demo Site",
-  brandTitle: "Yukina",
+  title: "GabiCode",
+  subTitle: "Bem vindo(a) ao meu blog!",
+  brandTitle: "GabiCode",
 
-  description: "Demo Site",
+  description: "Blog",
 
-  site: "https://yukina-blog.vercel.app",
+  site: "https://gabiisantana.github.io",
 
-  locale: "en", // set for website language and date format
+  locale: "pt-BR", // set for website language and date format
 
   navigators: [
     {
@@ -27,25 +27,21 @@ const YukinaConfig: Configuration = {
     },
     {
       nameKey: I18nKeys.nav_bar_github,
-      href: "https://github.com/WhitePaper233/yukina",
+      href: "https://github.com/GabiiSantana",
     },
   ],
 
-  username: "WhitePaper 白芷",
-  sign: "Ad Astra Per Aspera.",
-  avatarUrl: "https://s2.loli.net/2025/01/25/FPpTrQSezM8ivbl.webp",
+  username: "Gabrielly Sant Ana",
+  sign: "Pentester, Red Team.",
+  avatarUrl: "https://avatars.githubusercontent.com/u/81207608?v=4",
   socialLinks: [
     {
-      icon: "line-md:github-loop",
-      link: "https://github.com/WhitePaper233",
+      icon: "mdi:github",
+      link: "https://github.com/GabiiSantana",
     },
     {
-      icon: "mingcute:bilibili-line",
-      link: "https://space.bilibili.com/22433608",
-    },
-    {
-      icon: "mingcute:netease-music-line",
-      link: "https://music.163.com/#/user/home?id=125291648",
+      icon: "mdi:linkedin",
+      link: "https://www.linkedin.com/in/gabicode/",
     },
   ],
   maxSidebarCategoryChip: 6, // It is recommended to set it to a common multiple of 2 and 3
