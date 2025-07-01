@@ -50,14 +50,14 @@ const YukinaConfig: Configuration = {
   maxFooterTagChip: 24,
 
   banners: [
-    "https://s2.loli.net/2025/01/25/PBvHFjr5yDu6t4a.webp",
-    "https://s2.loli.net/2025/01/25/6bKcwHZigzlM4mJ.webp",
+    "https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C++/Sakura_Nene_CPP.jpg?raw=true",
+    "https://images8.alphacoders.com/135/thumb-1920-1351412.png",
     "https://s2.loli.net/2025/01/25/H9WgEK6qNTcpFiS.webp",
-    "https://s2.loli.net/2025/01/25/njNVtuUMzxs81RI.webp",
-    "https://s2.loli.net/2025/01/25/tozsJ8QHAjFN3Mm.webp",
-    "https://s2.loli.net/2025/01/25/Pm89OveZq7NWUxF.webp",
+    "https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C/Sakura_Nene_Holding_C_Programming_Language_Book.jpg?raw=true",
+    "https://images7.alphacoders.com/135/thumb-1920-1351260.png",
+    "https://images8.alphacoders.com/135/thumb-1920-1355111.jpeg",
     "https://s2.loli.net/2025/01/25/UCYKvc1ZhgPHB9m.webp",
-    "https://s2.loli.net/2025/01/25/JjpLOW8VSmufzlA.webp",
+    "https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Linux/Sakura_Nene_LDD3.png?raw=true",
   ],
 
   slugMode: "HASH", // 'RAW' | 'HASH'
