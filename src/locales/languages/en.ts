@@ -10,21 +10,21 @@ export const en: Translation = {
   [key.nav_bar_archive]: "Projetos",
   [key.nav_bar_about]: "Sobre",
   [key.nav_bar_github]: "GitHub",
-  [key.nav_bar_search_placeholder]: "Search",
+  [key.nav_bar_search_placeholder]: "Pesquisa",
 
-  [key.post_card_words]: "Words",
-  [key.post_card_minutes]: "Minutes",
+  [key.post_card_words]: "Palavras",
+  [key.post_card_minutes]: "Minutos",
 
-  [key.side_bar_categories]: "Categories",
+  [key.side_bar_categories]: "Categorias",
   [key.side_bar_tags]: "Tags",
-  [key.side_bar_view_more]: "View More",
+  [key.side_bar_view_more]: "Ver mais",
 
-  [key.archive_year_title_count]: "Total {{}} article(s)",
+  [key.archive_year_title_count]: "Total {{}} artigos(s)",
 
   [key.pages_categories_archive]: "Article Archive",
   [key.pages_tags_archive]: "Tag Archive",
   [key.pages_archive_archive]: "Archive",
 
   [key.pages_tags_title]: "Tags",
-  [key.pages_categories_title]: "Categories",
+  [key.pages_categories_title]: "Categorias",
 };
